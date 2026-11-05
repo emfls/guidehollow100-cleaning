@@ -9,5 +9,6 @@
   "url": "https://cleaning.guidehollow.com/",
   "accent": "#3B8578",
   "launchReady": true,
-  "adsReady": false
+  "adsReady": false,
+  "coupangEnabled": true
 }
